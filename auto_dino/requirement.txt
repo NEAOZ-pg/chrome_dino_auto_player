@@ -1,0 +1,13 @@
+# pytorch and mindspore please install it yourself
+
+# Numerical operations library
+numpy
+
+# OpenCV for computer vision tasks
+opencv-python
+
+# Cross-platform screen capture library
+mss
+
+# pynput for handling mouse and keyboard events
+pynput
